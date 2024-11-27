@@ -1,6 +1,7 @@
 # GoLang Task Manager
 
 This repository url is https://github.com/ysegalb/golang-taskmanager
+Solution submitted as https://roadmap.sh/projects/task-tracker/solutions?u=6746e4845039431075f1db70
 
 A simple task manager written in Go. Resembles the example from [roadmap.sh task-tracker](https://roadmap.sh/projects/task-tracker)
 
